@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hello world, I'm Tom.</h1>
+<p align="center"><strong>Software developer · Berlin · Backend &amp; systems</strong></p>
+<p align="center"><a href="https://www.linkedin.com/in/tmurua/">LinkedIn</a> · <a href="https://github.com/tmurua?tab=repositories">All repositories</a></p>
 
-<!--
-**tmurua/tmurua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like figuring out how systems fit together, from starting them with `make` to following a request into a database. My strongest foundations are in C and C++. Recent team projects led me to TCP networking, collaborative editing, document persistence and deployment.
 
-Here are some ideas to get you started:
+I'm completing 42 Berlin's Common Core and looking for a junior software development role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Start here
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/tmurua/synctext">SyncText</a></h3>
+<p>A collaborative text editor with live co-editing, version history and restoration. Built by a team of five.</p>
+<p><strong>My work:</strong> document persistence, snapshots and restoration, deployment, health checks, database backup/restore scripts and project coordination.</p>
+<p><sub>TypeScript · Next.js · Yjs · PostgreSQL · Docker Compose</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/tmurua/cpp-irc-server">C++ IRC Server</a></h3>
+<p>A C++98 IRC server built with a teammate, originally called ft_irc at 42.</p>
+<p><strong>My work:</strong> non-blocking sockets, a poll() event loop, input/output buffering, partial sends and connection cleanup.</p>
+<p><sub>C++98 · TCP sockets · poll() · Unix</sub></p>
+</td>
+</tr>
+</table>
+
+These portfolio copies preserve the original team history and credits. Their READMEs explain how to run them and what I contributed.
+
+## Tools I've worked with
+
+**Foundations:** C, C++, Linux/Unix, Git, Bash, TCP/IP, algorithms and data structures.
+
+**In recent projects:** TypeScript, Next.js, Prisma, PostgreSQL, Docker Compose, NGINX and Yjs.
+
+Before software development, I managed logistics operations in São Paulo and wrote software documentation in English, Portuguese and Spanish.
