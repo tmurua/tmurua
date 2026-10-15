@@ -1,10 +1,8 @@
-<h1 align="center">Hello world, I'm Tom.</h1>
+<h1 align="center">Hello world! </h1>
 <p align="center"><strong>Software developer · Berlin · Backend &amp; systems</strong></p>
 <p align="center"><a href="https://www.linkedin.com/in/tmurua/">LinkedIn</a> · <a href="https://github.com/tmurua?tab=repositories">All repositories</a></p>
 
-I like figuring out how systems fit together, from starting them with `make` to following a request into a database. My strongest foundations are in C and C++. Recent team projects led me to TCP networking, collaborative editing, document persistence and deployment.
-
-I'm completing 42 Berlin's Common Core and looking for a junior software development role.
+I completed 42 School's Common Core curriculum and I'm looking for a software development role. My strongest foundations are in C and C++. Recent team projects led me to TCP networking, collaborative editing, document persistence and deployment.
 
 ## Start here
 
